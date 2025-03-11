@@ -24,8 +24,8 @@ export default function Home() {
         <h1 className={styles.title}>Leo Sammarco</h1>
 
         <p className={styles.description}>
-          Hi I'm Leo, a software engineer based in London working for
-          Trainline.
+          Hi I'm Leo, an Engineering Manager based in Manchester working for
+          Booking.com
         </p>
         <p className={styles.contact}>
           contact me at{" "}
