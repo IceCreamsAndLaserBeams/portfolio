@@ -1,0 +1,9 @@
+.avatar {
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.avatar .avatarImage {
+    object-fit: cover;
+    background: linear-gradient(45deg, #cfd9df, #e2ebf0);
+}
