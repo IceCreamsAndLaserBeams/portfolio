@@ -19,6 +19,7 @@ function Avatar({ imgSrc, imgAlt, height, width }: Props) {
                 fill={true}
                 priority={true}
                 sizes="200px"
+                placeholder={"blur"}
                 className={styles.avatarImage} />
         </div>
     );
